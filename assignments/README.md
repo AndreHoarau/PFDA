@@ -27,7 +27,7 @@ pip install plotly
 pip install jupyter
 pip install ipython
 pip install nbformat
-pip install pytest  # Optional, for testing
+pip install pytest  ```# Optional, for testing
 
 ## Usage 
 The assignments are provided as Jupyter Notebooks. To run them:
