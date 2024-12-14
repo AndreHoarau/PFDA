@@ -10,9 +10,14 @@ This repository contains the assignments performed by Andre Hoarau for the Progr
 ## Installation
 git clone https://github.com/AndreHoarau/PFDA/tree/main/assignments
 Navigate to the directory
-```bash\n $ cd assignments```
+```bash
+cd assignments
+```
 Install the required dependencies
-```bash\n $ pip install ``` see the prerequisites below.
+```bash
+pip install 
+``` 
+see the prerequisites below.
 
 
 ### Prerequisites
@@ -34,7 +39,9 @@ The assignments are provided as Jupyter Notebooks. To run them:
 
 Navigate to the project directory in your terminal or command prompt.
 Run the following command to launch Jupyter Notebook:
-``` bash\n $ jupyter notebook```
+```bash
+jupyter notebook
+```
 
 ### Additional note:
 Assignment 6: Interactive Graphs
